@@ -1,0 +1,7 @@
+grupo0:aluno10
+grupo1:aluno1,aluno7,aluno13,aluno18,aluno15,aluno4,aluno9
+grupo2:aluno7,aluno3
+grupo3:aluno8,aluno13,aluno0,aluno10
+grupo4:aluno2,aluno15,aluno10,aluno8,aluno4
+grupo5:
+grupo6:aluno1,aluno18,aluno10,aluno9,aluno11,aluno16
